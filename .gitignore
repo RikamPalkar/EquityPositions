@@ -1,0 +1,41 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+*.db
+
+# NuGet
+*.nupkg
+packages/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+
+# Visual Studio
+*.rsuser
+*.log
+
+# React/Node
+client/node_modules/
+client/dist/
+client/.vite/
+
+# Environment
+*.env
+*.env.local
+*.env.development.local
+*.env.test.local
+*.env.production.local
+
+# OS
+.DS_Store
+Thumbs.db
+
