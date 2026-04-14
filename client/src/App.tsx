@@ -14,7 +14,7 @@ function App() {
   return (
     <div className="app">
       <header className="app-header">
-        <h1>Equity Positions - Trafigura</h1>
+        <h1>Equity Positions</h1>
       </header>
 
       <main className="app-main">
